@@ -1,4 +1,4 @@
-# Clone Youtube w/ React :fire:
+# Clone Youtube w/ ReactJS :fire:
 
 Projeto clone feito com o <b>ReactJS</b> com modo 'dark' e 'light'. Usando como base o Material UI! 
 
